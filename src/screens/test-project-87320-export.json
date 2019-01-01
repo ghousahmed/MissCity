@@ -1,0 +1,192 @@
+{
+  "category" : {
+    "-LS9Fo995w290cWrur1v" : {
+      "description" : " Die Tour führt entland architektonisch besonderer Geäude / Gebiete",
+      "hashtag" : "#citystyle",
+      "title" : "Architektur"
+    },
+    "-LS9FtP-z67BzWeMYHD_" : {
+      "description" : "Die Tour führt entlang besonderer Köstlichkeiten",
+      "hashtag" : "#jummy",
+      "title" : "Genuss"
+    },
+    "-LS9FzjuN-78NJYumHZE" : {
+      "description" : "Die Tour führt entlang geschichtsträchtiger Orte",
+      "hashtag" : "#wherewecomefrom",
+      "title" : "Geschichte"
+    },
+    "-LS9G47djDNFJJXpFW1p" : {
+      "description" : "Die Tour führt entlang einer angesagten Gegend",
+      "hashtag" : "#wearethecity",
+      "title" : "Hippe Ecke"
+    },
+    "-LS9G9zIcJxENxt0cS-k" : {
+      "description" : "Die Tour ist für Kinder geeignet",
+      "hashtag" : "#nextgeneration",
+      "title" : "Kinder"
+    },
+    "-LS9GFGViOHuLkTK7DXL" : {
+      "description" : "Die Tour führt entlang belieberte Plätze der Anwohner",
+      "hashtag" : "#localstuff",
+      "title" : "Lieblingsort"
+    },
+    "-LS9GKm7MaVcOPNsN3k_" : {
+      "description" : "Die Tour führt ins Grüne",
+      "hashtag" : "#noconcret",
+      "title" : "Natur"
+    },
+    "-LS9GRbzRR2GnEUNIfUV" : {
+      "description" : "Die Tour führt entlang bekannter und unbekannter Sehenswürdigkeiten",
+      "hashtag" : "#mustsee",
+      "title" : "Sehenswürdigkeiten"
+    },
+    "-LS9G_jSprcQWSGcsc3Z" : {
+      "description" : "Die Tour führt entlang von Einkaufsmöglichkeiten",
+      "hashtag" : "#sharingmymoney",
+      "title" : "Shoppen"
+    },
+    "-LS9GfWoW_06SaHMb6RF" : {
+      "description" : "Die Tour führt entlang eines lokalen Sportangebotes",
+      "hashtag" : "#movingisliving",
+      "title" : "Sport"
+    },
+    "-LS9GkczctuWSLVwveiq" : {
+      "description" : "Die Tour führt entlang kreativer Straßenkunst",
+      "hashtag" : "#art",
+      "title" : "Street Art"
+    },
+    "-LS9GruOiloBokOj3BnR" : {
+      "description" : "Die Tour führt entlang oder in die Nähe eines Gewässers",
+      "hashtag" : "#wateriswheremyheartis",
+      "title" : "Wassernah"
+    }
+  },
+  "city" : {
+    "-LS9Jym8DXalHwoCy9_0" : {
+      "description" : "Lorem Ipsum",
+      "name" : "Hamburg"
+    },
+    "-LS9K9hhz_S7lotlOMxX" : {
+      "description" : "Lorem Ipsum",
+      "name" : "Nürnberg"
+    },
+    "-LS9KDUZMMr6sl1AmGFS" : {
+      "description" : "Lorem Ipsum",
+      "name" : "Köln"
+    },
+    "-LS9KFE5JkddS6FjaVoZ" : {
+      "description" : "Lorem Ipsum",
+      "name" : "Bremen"
+    }
+  },
+  "company" : {
+    "adress" : "Habsburgerstraße 11",
+    "city" : "Nürnberg",
+    "info" : "Hier fehlt content",
+    "mail" : "info@miss-city.com",
+    "name" : "Miss City",
+    "phone" : "01705806245",
+    "zip" : 90475
+  },
+  "routes" : {
+    "-LQXq9ysO20RH5wBl_iF" : {
+      "categories" : "[{-LS9G47djDNFJJXpFW1p}, {-LS9GfWoW_06SaHMb6RF}]",
+      "city" : "-LS9Jym8DXalHwoCy9_0",
+      "creatorId" : "AN1MKCdwQ2dqAWdSiEy2i23idXE2",
+      "description" : "Aufschneida, Spinotfressa, Aufschneida, gscheada Saubreiß, Aufmüpfiga, du Ams’l, du bleede, Kircharutschn, Grantlhuaba, Saggrament, Schachtlhuba, Kreizdeifi, Wurznsepp, hosd mi, Gibskobf, Hallodri, Kasberlkopf, Kniabisla, Freibialädschn, Flaschn, Pfennigfuxa, Gibskobf, Schnointreiba, Stodara, greißlicha Uhu, Schbringgingal, Daamaluudscha, Kamejtreiba, Plotschn, Schbinodwachdl, hoit dei damische Goschn, Wuidsau, Spinotfressa, Kasberlkopf, gscherta Hamml, Pfundhamml, schau, dass di schleich",
+      "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/test-project-87320.appspot.com/o/routes%2F-LQXq9ysO20RH5wBl_iF%2Froute--LQXq9ysO20RH5wBl_iF.jpg?alt=media&token=34a51e1b-590c-441c-9273-bcd69197baa1",
+      "rating" : {
+        "stars" : "5"
+      },
+      "steps" : [ {
+        "city" : "Hamburg",
+        "creatorId" : "AN1MKCdwQ2dqAWdSiEy2i23idXE2",
+        "description" : "Aufschneida, Spinotfressa, Aufschneida, gscheada Saubreiß, Aufmüpfiga, du Ams’l, du bleede, Kircharutschn, Grantlhuaba, Saggrament, Schachtlhuba, Kreizdeifi, Wurznsepp, hosd mi, Gibskobf, Hallodri, Kasberlkopf, Kniabisla, Freibialädschn, Flaschn, Pfennigfuxa, Gibskobf, Schnointreiba, Stodara, greißlicha Uhu, Schbringgingal, Daamaluudscha, Kamejtreiba, Plotschn, Schbinodwachdl, hoit dei damische Goschn, Wuidsau, Spinotfressa, Kasberlkopf, gscherta Hamml, Pfundhamml, schau, dass di schleich",
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/test-project-87320.appspot.com/o/routes%2F-LQXq9ysO20RH5wBl_iF%2Fstep-0.jpg?alt=media&token=464e0709-ac7b-472e-9942-712ecc594d8b",
+        "number" : "1",
+        "stepTipp" : "rd da zoagn, wo da Bartl an Most hoid, Hundsgribbe, Goggolore, mogsd a Wadschn, Affnasch, Klobürschdn, klebrigs Biaschal, Doafmatratzn, Zwedschgarl, Daamaluudscha, schau, dass di schleichst, Freindal, Sautreiba, Scheißbürschdl, Blattada, Gmoadepp, Hopfastanga, i-Düpferl-Reita, Zuagroasta!",
+        "stepToStepTipp" : "rd da zoagn, wo da Bartl an Most hoid, Hundsgribbe, Goggolore, mogsd a Wadschn, Affnasch, Klobürschdn, klebrigs Biaschal, Doafmatratzn, Zwedschgarl, Daamaluudscha, schau, dass di schleichst, Freindal, Sautreiba, Scheißbürschdl, Blattada, Gmoadepp, Hopfastanga, i-Düpferl-Reita, Zuagroasta!",
+        "street" : "Hafen",
+        "title" : "Der Hafen",
+        "zip" : "23456"
+      }, {
+        "city" : "",
+        "creatorId" : "AN1MKCdwQ2dqAWdSiEy2i23idXE2",
+        "description" : "rd da zoagn, wo da Bartl an Most hoid, Hundsgribbe, Goggolore, mogsd a Wadschn, Affnasch, Klobürschdn, klebrigs Biaschal, Doafmatratzn, Zwedschgarl, Daamaluudscha, schau, dass di schleichst, Freindal, Sautreiba, Scheißbürschdl, Blattada, Gmoadepp, Hopfastanga, i-Düpferl-Reita, Zuagroasta!",
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/test-project-87320.appspot.com/o/routes%2F-LQXq9ysO20RH5wBl_iF%2Fstep-1.jpg?alt=media&token=f56482ce-1243-4e35-bee8-538e7f1c933c",
+        "number" : "",
+        "rating" : {
+          "stars" : "5"
+        },
+        "stepTipp" : "rd da zoagn, wo da Bartl an Most hoid, Hundsgribbe, Goggolore, mogsd a Wadschn, Affnasch, Klobürschdn, klebrigs Biaschal, Doafmatratzn, Zwedschgarl, Daamaluudscha, schau, dass di schleichst, Freindal, Sautreiba, Scheißbürschdl, Blattada, Gmoadepp, Hopfastanga, i-Düpferl-Reita, Zuagroasta!",
+        "stepToStepTipp" : "",
+        "street" : "",
+        "title" : "Die Skyline",
+        "zip" : ""
+      } ],
+      "time" : "1:30",
+      "title" : "Meine Perle",
+      "vehicle" : "[{-LS96V410jutOMypmxZt}, {-LS96X_8oWlHkk1PGppu}]"
+    },
+    "-LQYNqpSDY1o_jOCIcqF" : {
+      "categories" : "{-LS9G47djDNFJJXpFW1p, -LS9GfWoW_06SaHMb6RF}",
+      "city" : "-LS9Jym8DXalHwoCy9_0",
+      "createDate" : "2018-11-05T10:36:57.233Z",
+      "creatorId" : "AN1MKCdwQ2dqAWdSiEy2i23idXE2",
+      "description" : "Aufschneida, Spinotfressa, Aufschneida, gscheada Saubreiß, Aufmüpfiga, du Ams’l, du bleede, Kircharutschn, Grantlhuaba, Saggrament, Schachtlhuba, Kreizdeifi, Wurznsepp, hosd mi, Gibskobf, Hallodri, Kasberlkopf, Kniabisla, Freibialädschn, Flaschn, Pfennigfuxa, Gibskobf, Schnointreiba, Stodara, greißlicha Uhu, Schbringgingal, Daamaluudscha, Kamejtreiba, Plotschn, Schbinodwachdl, hoit dei damische Goschn, Wuidsau, Spinotfressa, Kasberlkopf, gscherta Hamml, Pfundhamml, schau, dass di schleich",
+      "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/test-project-87320.appspot.com/o/routes%2F-LQYNqpSDY1o_jOCIcqF%2Froute--LQYNqpSDY1o_jOCIcqF.jpg?alt=media&token=b37b6007-4410-4e2a-99fc-8493f3a15f5b",
+      "routeId" : "-LQYNqpSDY1o_jOCIcqF",
+      "steps" : [ {
+        "city" : "Hamburg",
+        "creatorId" : "AN1MKCdwQ2dqAWdSiEy2i23idXE2",
+        "description" : "Aufschneida, Spinotfressa, Aufschneida, gscheada Saubreiß, Aufmüpfiga, du Ams’l, du bleede, Kircharutschn, Grantlhuaba, Saggrament, Schachtlhuba, Kreizdeifi, Wurznsepp, hosd mi, Gibskobf, Hallodri, Kasberlkopf, Kniabisla, Freibialädschn, Flaschn, Pfennigfuxa, Gibskobf, Schnointreiba, Stodara, greißlicha Uhu, Schbringgingal, Daamaluudscha, Kamejtreiba, Plotschn, Schbinodwachdl, hoit dei damische Goschn, Wuidsau, Spinotfressa, Kasberlkopf, gscherta Hamml, Pfundhamml, schau, dass di schleich",
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/test-project-87320.appspot.com/o/routes%2F-LQYNqpSDY1o_jOCIcqF%2Fstep-0.jpg?alt=media&token=3d9c17cc-6840-4edc-bbee-bf83a9f7229c",
+        "number" : "1",
+        "stepTipp" : "rd da zoagn, wo da Bartl an Most hoid, Hundsgribbe, Goggolore, mogsd a Wadschn, Affnasch, Klobürschdn, klebrigs Biaschal, Doafmatratzn, Zwedschgarl, Daamaluudscha, schau, dass di schleichst, Freindal, Sautreiba, Scheißbürschdl, Blattada, Gmoadepp, Hopfastanga, i-Düpferl-Reita, Zuagroasta!",
+        "stepToStepTipp" : "rd da zoagn, wo da Bartl an Most hoid, Hundsgribbe, Goggolore, mogsd a Wadschn, Affnasch, Klobürschdn, klebrigs Biaschal, Doafmatratzn, Zwedschgarl, Daamaluudscha, schau, dass di schleichst, Freindal, Sautreiba, Scheißbürschdl, Blattada, Gmoadepp, Hopfastanga, i-Düpferl-Reita, Zuagroasta!",
+        "street" : "Hafen",
+        "title" : "Der Hafen",
+        "zip" : "23456"
+      }, {
+        "city" : "",
+        "creatorId" : "AN1MKCdwQ2dqAWdSiEy2i23idXE2",
+        "description" : "rd da zoagn, wo da Bartl an Most hoid, Hundsgribbe, Goggolore, mogsd a Wadschn, Affnasch, Klobürschdn, klebrigs Biaschal, Doafmatratzn, Zwedschgarl, Daamaluudscha, schau, dass di schleichst, Freindal, Sautreiba, Scheißbürschdl, Blattada, Gmoadepp, Hopfastanga, i-Düpferl-Reita, Zuagroasta!",
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/test-project-87320.appspot.com/o/routes%2F-LQYNqpSDY1o_jOCIcqF%2Fstep-1.jpg?alt=media&token=886adfac-8d2b-4f14-88cb-82f431704db7",
+        "number" : "",
+        "stepTipp" : "rd da zoagn, wo da Bartl an Most hoid, Hundsgribbe, Goggolore, mogsd a Wadschn, Affnasch, Klobürschdn, klebrigs Biaschal, Doafmatratzn, Zwedschgarl, Daamaluudscha, schau, dass di schleichst, Freindal, Sautreiba, Scheißbürschdl, Blattada, Gmoadepp, Hopfastanga, i-Düpferl-Reita, Zuagroasta!",
+        "stepToStepTipp" : "",
+        "street" : "",
+        "title" : "Die Skyline",
+        "zip" : ""
+      } ],
+      "time" : "1:30",
+      "title" : "Meine Perle ",
+      "vehicle" : "[{-LS96V410jutOMypmxZt}, {-LS96X_8oWlHkk1PGppu}]"
+    }
+  },
+  "users" : {
+    "RXbyS5LYaNYjK7m98Ios5is9Gn32" : {
+      "isAdmin" : false
+    },
+    "Ruv5QQT5dHgJDP4lKIcYEgA7LH52" : {
+      "isAdmin" : false
+    },
+    "ugJ3Cz8u96aSLULexG6R8JJ7vwl1" : {
+      "isAdmin" : false
+    }
+  },
+  "vehicle" : {
+    "-LS96V410jutOMypmxZt" : {
+      "description" : "Lorem ipsum",
+      "name" : "Auto"
+    },
+    "-LS96X_8oWlHkk1PGppu" : {
+      "description" : "Lorem Ipsum",
+      "name" : "Bus"
+    },
+    "-LS96agqnIEs8_E-ekLg" : {
+      "description" : "Lorem Ipsum",
+      "name" : "Zu Fuß"
+    }
+  }
+}
